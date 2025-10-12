@@ -1,8 +1,16 @@
-<img align="right" height="100" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyeGE4dXE2aGNxamUwcHBmbWlybjY1am1kamp0MmRlOWM5eDNxZHNtZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyeGE4dXE2aGNxamUwcHBmbWlybjY1am1kamp0MmRlOWM5eDNxZHNtZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ###
 
 <h3 align="center">🖖 Hey There! I'm The One And Only Jyotiraditya, At Your Service!</h3>
+
+###
+
+<p align="left"></p>
+
+###
+
+<p align="left"></p>
 
 ###
 
