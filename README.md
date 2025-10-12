@@ -108,7 +108,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/kode0x/kode0x/output/snake.svg" alt="Snake animation" />
-
-###
