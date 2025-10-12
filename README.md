@@ -6,19 +6,11 @@
 
 ###
 
-<p align="left"></p>
+<p align="left">Languages I Know!</p>
 
 ###
 
-<p align="left"></p>
-
-###
-
-<p align="center">Languages I Know!</p>
-
-###
-
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="cplusplus logo"  />
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
@@ -34,11 +26,11 @@
 
 ###
 
-<p align="center">Frameworks and Libraries I Know!</p>
+<p align="left">Frameworks and Libraries I Know!</p>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
@@ -52,11 +44,11 @@
 
 ###
 
-<p align="center">Databases I Know!</p>
+<p align="left">Databases I Know!</p>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
@@ -64,11 +56,11 @@
 
 ###
 
-<p align="center">Operating Systems I'm Familiar With</p>
+<p align="left">Operating Systems I'm Familiar With</p>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="45" alt="windows8 logo"  />
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux logo"  />
@@ -76,11 +68,11 @@
 
 ###
 
-<p align="center">IDEs and Text Editors I Use</p>
+<p align="left">IDEs and Text Editors I Use</p>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo"  />
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=vim" height="45" alt="vim logo"  />
