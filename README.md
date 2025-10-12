@@ -56,7 +56,7 @@
 
 ###
 
-<p align="left">Operating Systems I'm Familiar With</p>
+<p align="left">Operating Systems I'm Familiar With!</p>
 
 ###
 
@@ -82,7 +82,7 @@
 
 ###
 
-<h3 align="center">Follow Me on Social Media</h3>
+<h3 align="center">Follow Me on Social Media!</h3>
 
 ###
 
