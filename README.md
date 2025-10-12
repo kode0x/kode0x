@@ -1,14 +1,8 @@
+<img align="right" height="100" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyeGE4dXE2aGNxamUwcHBmbWlybjY1am1kamp0MmRlOWM5eDNxZHNtZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+
+###
+
 <h3 align="center">🖖 Hey There! I'm The One And Only Jyotiraditya, At Your Service!</h3>
-
-###
-
-<img align="right" height="180" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyeGE4dXE2aGNxamUwcHBmbWlybjY1am1kamp0MmRlOWM5eDNxZHNtZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kode0x&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&custom_title=Languages%20I%20Work%20With" height="150" alt="languages graph"  />
-</div>
 
 ###
 
