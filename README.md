@@ -1,104 +1,83 @@
-<img align="right" height="125" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyeGE4dXE2aGNxamUwcHBmbWlybjY1am1kamp0MmRlOWM5eDNxZHNtZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
-
-###
-
-<h3 align="center">🖖 Hey There! I'm The One And Only Jyotiraditya, At Your Service!</h3>
-
-###
-
-<p align="left">Languages I Know!</p>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="cplusplus logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
 
 ###
 
-<p align="left">Frameworks and Libraries I Know!</p>
+<h2 align="left">Hi there, I'm Jyotiraditya Singh! 👋</h2>
 
 ###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo"  />
-</div>
+<p align="left">I am a passionate Machine Learning Engineer and AI Specialist with a deep interest in building intelligent, data-driven applications. I enjoy working with cutting-edge algorithms and models to solve complex problems, and I’m always excited to explore new advancements in AI and machine learning. Whether it’s building machine learning pipelines, deploying AI models, or working on data analysis and prediction systems, I thrive in creating smart, scalable solutions.</p>
 
 ###
 
-<p align="left">Databases I Know!</p>
+<h3 align="left">🔧 Technologies & Tools</h3>
 
 ###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+<h4 align="center">Data Science + Machine Learning + Deep Learning + MLOps</h4>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="30" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=r" height="30" alt="r logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="30" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes logo"  />
 </div>
 
 ###
 
-<p align="left">Operating Systems I'm Familiar With!</p>
+<h3 align="left">🌍 Let's Connect!</h3>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="45" alt="windows8 logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux logo"  />
-</div>
-
-###
-
-<p align="left">IDEs and Text Editors I Use</p>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=vim" height="45" alt="vim logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="45" alt="neovim logo"  />
-</div>
-
-###
-
-<h3 align="center">Follow Me on Social Media!</h3>
+<p align="center">I'm always open to collaborating on AI-driven projects, sharing insights, or discussing new techniques. Feel free to reach out to me!</p>
 
 ###
 
 <div align="center">
   <a href="jyotiradityaxsinghchauhan@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="35" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3Bj3qk8MSGSDKiT9JjU61Hog%3D%3D" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="35" alt="linkedin logo"  />
+  <a href="https://linkedin.com/in/jyotiradityaxsingh" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/kode0" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="55" height="35" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
   </a>
-  <a href="https://medium.com/@jyotiradityaxsinghchauhan" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="55" height="35" alt="medium logo"  />
-  </a>
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
 
 ###
