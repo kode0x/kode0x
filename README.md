@@ -1,4 +1,4 @@
-<h2 align="left">Hi there, I'm Jyotiraditya Singh! 👋</h2>
+<h2 align="left">Hi 👋</h2>
 
 ###
 
