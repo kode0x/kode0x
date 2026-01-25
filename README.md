@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋</h2>
+<h2 align="left">Hi</h2>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">🔧 Technologies & Tools</h3>
+<h3 align="left">Technologies & Tools</h3>
 
 ###
 
@@ -48,7 +48,7 @@
 
 ###
 
-<h3 align="left">🌍 Let's Connect!</h3>
+<h3 align="left">Let's Connect!</h3>
 
 ###
 
