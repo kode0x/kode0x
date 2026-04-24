@@ -53,19 +53,3 @@
 ###
 
 <p align="center">I'm always open to collaborating on AI-driven projects, sharing insights, or discussing new techniques. Feel free to reach out to me!</p>
-
-###
-
-<div align="center">
-  <a href="jyotiradityaxsinghchauhan@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://linkedin.com/in/jyotiradityaxsingh" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/kode0" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
-  </a>
-</div>
-
-###
